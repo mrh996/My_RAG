@@ -55,5 +55,13 @@ We provide two modes:
 
 ## 📝 License
 
-MIT License. Free to use for teaching and learning.
+MIT License. Free to use for teaching and learning. 
+
+
+If you use this repository in your teaching, research, or projects, please cite it by linking to this GitHub repo:
+
+[https://github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name)
+
+
+
 
